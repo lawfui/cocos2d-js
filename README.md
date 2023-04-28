@@ -53,13 +53,13 @@ With any problems you might have, our communities are happy to help:
 ## How to Start a New Game
 
 1. Download the code from [Cocos2d download site](http://www.cocos2d-x.org/download)
-2. Run `setup.py`
+2. Run `setup3.py`
 3. Run the `cocos` script
 
 Example:
 
     $ cd cocos2d-js
-    $ ./setup.py
+    $ python3 ./setup3.py
     $ source FILE_TO_SAVE_SYSTEM_VARIABLE
 
     $ cocos new MyGame -l js -d /directory/to/project
